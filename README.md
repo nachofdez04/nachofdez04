@@ -13,7 +13,7 @@
 
 ### 🛠️ Tecnologías que uso
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,vue,vuetify,js,jquery,php,laravel,npm,python,linux,react" />
 </p>
 
 ---
